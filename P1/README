@@ -1,0 +1,4 @@
+1º) Entrar en el directorio P1_Compiladores.
+2º) Ejecutar el comando make o make compilación para la compilación automatica.
+3º) Pasar la dirección del archivo .go como parámetro al ejecutable para que pueda abrirlo.
+4º) Borrar el ejecutable con make clean.

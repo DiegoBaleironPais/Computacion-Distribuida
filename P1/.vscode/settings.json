@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "sistema_de_entrada.h": "c",
+        "tabla_de_simbolos.h": "c"
+    }
+}

@@ -1,0 +1,47 @@
+-------------------------Calculadora Bison-------------------------
+Desde esta calculadora puedes realizar operaciones aritmeticas y lógicas sobre números enteros o flotantes, además puedes definir variables utilizar constantes y utilizar funciones propias de una calculadora. Adicionalmente la calculadora cuenta con funciones de sistema que pueden ser útiles a la hora de utilizarla.
+
+Operadores algebraicos que utiliza la calculadora:
++ //Suma
+- //Resta
+* //Multiplicación
+/ //División
+% //Resto
+= //Asignación
+
+
+Operadores lógicos que utiliza la calculadora:
+> //Mayor que
+< //Menor que
+>= //Mayor o igual
+<= //Menor o igual
+== //Igual
+!= //Distinto
+
+Funciones del sistema:
+quit //Termina la aplicación
+workspace //Imprime las variables del espacio de trabajo
+echo //Define si los resultados de las operaciones se muestran por pantalla o no
+clean //Borra las variables del espacio de trabajo
+load "archivo" //Permite cargar operaciones de un archivo
+
+Funciones de la calculadora:
+acos //Función arcocoseno
+asin //Función arcoseno
+atan //Función arcotangente
+floor //Función suelo
+cos //Función coseno
+exp //Función exponencial de base e
+fabs //Función valor absoluto
+ceil //Función techo
+fmod //Función modulo flotante
+log  //Función logaritmo neperiano
+log10 //Función logaritmo en base 10
+pow //Función exponencial de base x
+sin //Función seno
+sinh //Función seno hiperbolico
+sqrt //Función raíz cuadrada
+tan //Función tangente
+tanh //Funcion tangente hiperbolica
+acosh //Funcion coseno hiperbolico
+
